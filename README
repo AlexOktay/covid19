@@ -1,9 +1,9 @@
-# Project for CodeVsCovid19
+##############   Project for CodeVsCovid19    ###############
 
 This projects aims to predict exponential growth rate of the number of confirmed cases of Covid-19 in countries that have not yet been heavily impacted by the pandemix (i.e. less than 250 confirmed cases).
 Through a Gradient Boosting machine learning model, we used social and economic data to identify countries most at risk (see file results => the lower the number the less at risk)
 
-Questions? Contact Alex Oktay
+Questions? Contact Alex Oktay and Huy Nguyen
 
 DATA SOURCES
 General data about countries: https://www.kaggle.com/fernandol/countries-of-the-world
