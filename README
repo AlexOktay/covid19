@@ -4,7 +4,7 @@ This projects aims to predict exponential growth rate of the number of confirmed
 Through a Gradient Boosting machine learning model, we used social and economic data to identify countries most at risk (see file results => the lower the number the less at risk)
 
 # WANT TO SEE OUR CODE? Check Covid19_data_analysis_notebook.ipynb (notebook format, google colab)
-# WANT TO KNOW HOW RESULTS? Check results.csv
+# WANT TO KNOW OUR RESULTS? Check results.csv
 
 Questions? Contact Alex Oktay and Huy Nguyen
 
